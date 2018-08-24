@@ -1,0 +1,44 @@
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.dat-panel {
+  position: absolute;
+  top: 5%;
+  left: 70%;
+  overflow-y: scroll;
+}
+
+$colorTable: (
+  // 200 series
+  Burnished Slate: #3c322c,
+  Polar White: #eaebe1,
+  Charcoal Gray: #4a4544,
+  Light Stone: #d5cba6,
+  Rustic Red: #7f2b24,
+  Koko Brown: #4d3530,
+  Fern Green: #21372d,
+  Coal Black: #121111,
+  Hawaiian Blue: #3d647d,
+  // 300 series
+     Harbor Blue: #1c3d56,
+  Colonial Red: #652828,
+  Medium Bronze: #372b25,
+  Pacific Blue: #31556f,
+  Snow White: #e4eaed,
+  Slate Gray: #7f7f76,
+  Almond: #e5e0c5,
+  Midnight Bronze: #2b2d2b,
+  Everglade: #3e6c61,
+  Brownstone: #a0906c,
+  Tundra: #919a9d,
+  Spruce: #588371,
+  Scarlet Red: #a2162e,
+  Hunter Green: #233029,
+  Classic Green: #1f423e,
+  Natural Patina: #8fb785,
+  Copper Metallic: #a56744,
+  Silver Metallic: #cccadf,
+  Galvalume Plus: #c3b9b6
+);
